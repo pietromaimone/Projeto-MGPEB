@@ -16,6 +16,8 @@ N = C · A · D · S (pouso normal)
 E = PA · ¬C · D · S · ¬T (pouso de emergência)
 P = N + E (pouso autorizado)
 ```
+a tabela de pouso autorizado pode ser encontrada em [tabela_pouso_aprovado.md](tabela_pouso_aprovado.md)
+
 quando P (pouso autorizado) e classificado em alerta ou seja ha uma alguma falha ou quando adiado tem algum problema externo:
 
 ```
