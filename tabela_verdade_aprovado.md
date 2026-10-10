@@ -2,6 +2,14 @@
 
 ## Expressões lógicas
 
+Notação: “·” = AND,“+” = OR, “¬” = NOT. Um pouso normal exige as quatro condições favoráveis
+
+N = C · A · D · S (pouso normal) 
+
+E = PA · ¬C · D · S · ¬T (pouso de emergência)
+
+P = N + E (pouso autorizado)
+
 - **G1** = A · C
 - **G2** = ¬C · PA · ¬T
 - **G3** = G1 + G2
