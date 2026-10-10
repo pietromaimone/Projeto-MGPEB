@@ -1,4 +1,4 @@
-as condicoes de pouso foram convertidas em 6 variaveis boleanas calculadas para cada modulo.
+As condicoes de pouso foram convertidas em 6 variaveis boleanas calculadas para cada modulo.
 
 | Var. | Significado | Condição simulada | Origem do dado |
 |------|-------------|-------------------|----------------|
