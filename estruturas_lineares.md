@@ -9,6 +9,7 @@ As condicoes de pouso foram convertidas em 6 variaveis boleanas calculadas para 
 | S | Sensores íntegros | diagnóstico sem falhas | Módulo |
 | PA | Prioridade alta | prioridade ≥ 4 | módulo |
 
+
 Notação: “·” = AND,“+” = OR, “¬” = NOT. Um pouso normal exige as quatro condições favoráveis
 
 N = C · A · D · S (pouso normal) 
@@ -16,3 +17,9 @@ N = C · A · D · S (pouso normal)
 E = PA · ¬C · D · S · ¬T (pouso de emergência)
 
 P = N + E (pouso autorizado)
+
+quando P (pouso autirizada) e classificado em alerta ou seja ha uma alguma falha ou quando adiado tem algum problema externo:
+
+ALERTA = ¬P · (¬S + ¬C) 
+
+ADIADO = ¬P · S · C
