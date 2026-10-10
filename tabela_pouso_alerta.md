@@ -1,4 +1,4 @@
-# Tabela Verdade do Circuito
+# Tabela Verdade do Circuito ADIADO E FALHA 
 
 ## Expressões lógicas
 
