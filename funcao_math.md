@@ -5,7 +5,7 @@ Aqui a gente explica a matemática por trás de duas decisões do MGPEB:
 1. **Quantos módulos podem pousar ao mesmo tempo** (depende da energia solar).
 2. **A que altura o motor precisa ser ligado** para o módulo pousar devagar (depende da massa do módulo).
 
-Os números (potência dos painéis, empuxo do motor etc.) foram inventados por nós para a simulação, não são de uma missão real. As funções estão no código, no arquivo `mgpeb.py`.
+Os números (potência dos painéis, empuxo do motor etc.) foram inventados para a simulação. As funções estão no código, no arquivo `mgpeb.py`.
 
 ---
 
@@ -122,4 +122,4 @@ Com esse motor, o módulo mais pesado que dá para frear tem cerca de 16.173 kg.
 
 - A massa do módulo é fixa. Na vida real ela diminui conforme o combustível é queimado.
 - Não tem atrito com o ar nem vento durante a descida.
-- A energia solar não considera poeira nos painéis. Uma melhoria possível seria multiplicar P(t) por uma função exponencial que diminui a cada dia, e^(−λ·dia).
+- A energia solar não considera poeira nos painéis. 
