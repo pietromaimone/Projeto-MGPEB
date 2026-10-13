@@ -48,7 +48,7 @@ Resumindo os horários:
 - **Pelo menos 2 pistas:** das 8,7 h às 15,3 h
 - **3 pistas:** das 10,1 h às 13,9 h
 
-![Gráfico da energia solar e das pistas disponíveis](assets/grafico_energia_solar.png)
+![grafico energia solar](assets/grafico_energia_solar.png)
 
 ### Como ler o gráfico
 
