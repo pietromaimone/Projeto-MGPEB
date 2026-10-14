@@ -11,7 +11,7 @@ As condicoes de pouso foram convertidas em 6 variaveis boleanas calculadas para 
 
 
 Notação: “·” = AND,“+” = OR, “¬” = NOT. Um pouso normal exige as quatro condições favoráveis
-um pouso de energencia seria necessario somente se houver uma tempestade severa, pouco combustivel e a prioridade for alta porque a pista devera estar vazia para um pouso de emergencia
+
 ```
 N = C · A · D · S (pouso normal)
 E = PA · ¬C · D · S · ¬T (pouso de emergência)
